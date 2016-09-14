@@ -184,3 +184,56 @@ ol {
 	width: 800px;
 	height: auto;
 }
+
+span.step {
+  background: #7ab55c;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 5px;
+  text-align: center;
+  width: 1.6em; 
+}
+
+span.step.empty {
+	background: white;
+	border: 1px solid #7ab55c;
+	color: #7ab55c;
+}
+
+.shopify-form h4 {
+		font-size: 20px;
+		padding-top: 10px;
+		padding-bottom: 25px;
+}
+.shopify-form p {
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+}
+
+.shopify-form h3 {
+		font-size: 30px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+}
+
+.fixed-width-4 {
+	height: 200px;
+}
+.fixed-width-5 {
+	height: 190px;
+}
+
+.navigation{
+	border-right: 2px solid #ddd;
+}
+
+.bottom {
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+}
