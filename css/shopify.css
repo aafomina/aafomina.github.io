@@ -1,0 +1,186 @@
+.navbar-default .navbar-nav > .shopify-green .shopify {
+  color: #7ab55c;
+  background: white;
+}
+
+.navbar-default .navbar-nav > .shopify-green > a, 
+.navbar-default .navbar-nav > .shopify-green > a:hover, 
+.navbar-default .navbar-nav > .shopify-green > a:focus {
+  color: #7ab55c;
+  background: white;
+}
+
+.underlined.shopify-green:before {
+ 	border-color: #7ab55c;
+}
+
+.shopify-heading{
+	color: #7ab55c;
+	font-size: 30px;
+	margin-bottom: 0px;
+	margin-top: 30px;
+}
+
+.shopify-sub-heading {
+	color: #30373b;
+	font-size: 26px;
+	margin-top: 60px;
+}
+
+.underlined-main.shopify-green:before {
+  border-color: #7ab55c;
+}
+
+.shopify-container p {
+	color: #767676;
+	line-height: 1.4;
+}
+
+.shopify-green {
+	color: #7ab55c;
+}
+
+p.shopify-green {
+	color: #7ab55c;
+}
+
+p.shopify-dark {
+	color: #30373b;
+}
+
+p.shopify-blue {
+	color: #00c2d0;
+}
+
+.shopify-blue {
+	color: #00c2d0;
+}
+
+.shopify-yellow {
+	color: #ffd23e;
+}
+
+.shopify-orange {
+	color: #d04200;
+}
+
+.bubble {
+	position: relative;
+	width: 600px;
+	height: 475px;
+	padding: 25px;
+	background: #FFFFFF;
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 10px;
+	border: #30373b solid 2px;
+	line-height: 1.4;
+}
+
+.bubble p {
+	color: #30373b;
+	font-size: 14px;
+}
+
+.bubble li {
+	color: #30373b;
+	font-size: 14px;
+	font-family: 'Merriweather', serif;
+	line-height: 1.4;
+}
+
+.bubble:after {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 15px 15px 15px 0;
+	border-color: transparent #FFFFFF;
+	display: block;
+	width: 0;
+	z-index: 1;
+	left: -15px;
+	top: 135px;
+}
+
+.bubble:before {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 16px 16px 16px 0;
+	border-color: transparent #30373b;
+	display: block;
+	width: 0;
+	z-index: 0;
+	left: -18px;
+	top: 134px;
+}
+
+.user-test-info {
+	text-align: right;
+	line-height: 1.4;
+}
+
+.attributes p {
+	line-height: 1.4;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 14px;
+}
+
+.margin-top {
+	margin-top: 30px;
+}
+
+.nikita-use-case .bubble {
+	height: 600px;
+}
+
+.nikita-use-case ul {
+	text-align: left;
+}
+
+.nikita-use-case i {
+	text-align: left;
+}
+
+.main-text {
+	padding-bottom: 20px;
+}
+
+.prototype-large {
+	width: 1000px;
+	height: auto;
+}
+
+.full-text {
+	text-align: left;
+}
+
+ol {
+	color: #767676;
+	line-height: 1.4;
+	font-size: 18px;
+	font-family: 'Merriweather', serif;
+	text-align: left;
+}
+
+.h4-shopify {
+	font-weight: 700;
+	font-family: "Graphik Web", Helvetica, Arial, serif;
+	text-align: left;
+	color: #30373b;
+}
+
+.fixed-size {
+	height: 300px;
+	padding: 15px;
+}
+
+.fixed-size-2 {
+	height: 200px;
+	padding: 20px;
+}
+.wireframe-image {
+	width: 800px;
+	height: auto;
+}
