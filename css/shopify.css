@@ -217,9 +217,9 @@ span.step.empty {
 }
 
 .shopify-form h3 {
-		font-size: 30px;
-		padding-top: 20px;
-		padding-bottom: 20px;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .fixed-width-4 {
@@ -236,4 +236,10 @@ span.step.empty {
 .bottom {
 	border-bottom: 1px solid #ddd;
 	padding-bottom: 10px;
+}
+
+.footer-styles {
+  color: #999;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
 }

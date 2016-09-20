@@ -1,5 +1,5 @@
 body {
-	font-family: "proxima-nova",sans-serif;
+	font-family: 'Lato', sans-serif;
 	color: rgba(0,0,0,0.77);
 	background-color: white;
   font-size: 16px;
@@ -7,16 +7,42 @@ body {
 }
 
 p {
-  font-family: 'Merriweather', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 18px;
+  color: #555;
+}
+
+.half-landing-page {
+  width: 600px;
+}
+
+.case-study .row {
+  margin-top: 20px;
+  margin-bottom: 80px;
+  text-align: center;
 }
 
 .main-heading {
-  font-size: 26px;
+  font-size: 28px;
   font-weight: 700;
   line-height: 1.6;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
+  margin-top: 50px;
   font-family: "Graphik Web", Helvetica, Arial, serif;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-family: "Graphik Web", Helvetica, Arial, serif;
+}
+
+.sub-heading {
+  font-size: 24px;
+  margin-bottom: 40px;
 }
 
 .second-heading {
@@ -81,11 +107,8 @@ p {
   background: white;
 }
 
-
-style="color: #96bf48;"
-
 a {
-  color: #0c82ba;
+  color: #4479a5;
 }
 
 a:hover {
@@ -171,6 +194,22 @@ a:hover {
   bottom: 5px;
   left: 20%;
   border-bottom: 4px solid #7ab55c;
+}
+
+.underlined-ph {
+  display: inline-block;
+  padding-bottom: 8px;
+  position: relative;
+  text-align: center;
+}
+
+.underlined-ph:before {
+  content: "";
+  position: absolute;
+  width: 60%;
+  bottom: 5px;
+  left: 20%;
+  border-bottom: 3px solid #21bbd1;
 }
 
 .down-icon {
@@ -265,4 +304,171 @@ a:hover {
 
 .bio-text {
   padding-left: 10px;
+}
+
+ul.pro-list {
+  list-style-type: none;
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  padding-left: 0px;
+  height: 240px;
+  display: table;
+  font-family: 'Lato', sans-serif;
+}
+
+ul.pro-list li {
+  line-height: 1.4;
+  font-size: 18px;
+  padding-top: 5px;
+  margin-bottom: 0px;
+  display: table-row;
+  color: white;
+}
+
+ul.con-list {
+  list-style-type: none;
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  padding-left: 0px;
+  height: 240px;
+  display: table;
+  font-family: 'Lato', sans-serif;
+}
+
+ul.con-list li {
+  line-height: 1.4;
+  font-size: 18px;
+  padding-top: 5px;
+  margin-bottom: 40px;
+  display: table-row;
+  color: white;
+}
+
+/* list color for blue background of PH color: #0d4a53; */
+
+ul.pro-list > li::before {
+  content: '✔ ';
+  padding-right: 10px;
+  display: table-cell; /* aha! */
+  text-align: right;
+}
+
+ul.con-list > li::before {
+  content: '✘ ';
+  padding-right: 10px;
+  display: table-cell; /* aha! */
+  text-align: right;
+}
+
+.row.pricing-redesign {
+  /*background-color: #626476;*/
+  margin-bottom: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+/*blue background color for PH - #bbdee4;*/
+
+.email {
+  width: 500px;
+  margin-top: 10px;
+}
+
+.design-flow {
+  width: 1400px;
+  height: auto;
+}
+/*#a9abb8*/
+.grad {
+  background: #252835; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#252835, white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#252835, white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#252835, white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#252835, white); /* Standard syntax */
+}
+
+.gif-background {
+  width: 400px;
+  height: 265px;
+  /*background-color: rgba(51,122,183, .9);*/
+  /*background-color: rgba(52, 49, 59, 0.9);*/
+  background-color: #4479a5;
+  padding-top: 20px;
+  padding-bottom
+  text-align: center;
+}
+
+.case-study {
+  margin-top: 50px;
+}
+
+.thumb-blog-post {
+  width: 400px;
+  height: 260px;
+  text-align: center;
+}
+
+.opacity::after {
+  background-color: rgba(0,0,0, 0.9);
+  width: 400px;
+}
+
+.thumb-background {
+  background-color: rgba(25, 61, 91, 0.9);
+  width: 480px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.thumb-ph-site {
+  width: 370px;
+  padding-top: 10px;
+}
+
+.thumb-ph-app {
+  width: 330px;
+  padding-top: 5px;
+}
+
+.thumb-openinvite {
+  width: 274px;
+  height: auto;
+}
+
+.thumb-ph-pricing {
+  width: 320px;
+  height: auto;
+}
+
+.thumb-heading {
+  margin-top: 20px;
+  color: #333;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.thumb-blog-heading {
+  color: rgba(0,0,0,0.77);
+  font-size: 22px;
+  margin-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 1.4;
+}
+
+a.learn-more {
+  color: #337ab7;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+a.learn-more.green {
+  color: #0e9c83;
 }

@@ -1,0 +1,444 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 616.58 176.73">
+  <defs>
+    <style>
+      .a, .b, .g {
+        fill: #fff;
+      }
+
+      .a, .m, .n, .o, .p, .t, .u {
+        stroke: #21bbd1;
+      }
+
+      .a, .c, .g, .h, .k, .m, .n, .o, .p, .q, .r, .s, .t, .u {
+        stroke-miterlimit: 10;
+      }
+
+      .a, .m, .n, .o, .p, .q, .r, .t, .u {
+        stroke-width: 0.5px;
+      }
+
+      .c, .h, .k, .m, .n, .o, .p, .q, .r, .s, .t, .u {
+        fill: none;
+      }
+
+      .c, .g, .q {
+        stroke: #20222d;
+      }
+
+      .d, .f {
+        fill: #20222d;
+      }
+
+      .e {
+        font-size: 4px;
+      }
+
+      .e, .f, .j {
+        font-family: Helvetica;
+      }
+
+      .f, .j {
+        font-size: 5px;
+      }
+
+      .h, .k, .r, .s {
+        stroke: #818181;
+      }
+
+      .h {
+        stroke-dasharray: 10 2;
+      }
+
+      .i, .j {
+        fill: #818181;
+      }
+
+      .l {
+        font-weight: 700;
+      }
+
+      .n {
+        stroke-dasharray: 9.76 1.95;
+      }
+
+      .o {
+        stroke-dasharray: 8.86 1.77;
+      }
+
+      .p {
+        stroke-dasharray: 5.13 1.03;
+      }
+
+      .s {
+        stroke-dasharray: 8 2;
+      }
+
+      .t {
+        stroke-dasharray: 11.05 2.21;
+      }
+
+      .u {
+        stroke-dasharray: 8.04 1.61;
+      }
+    </style>
+  </defs>
+  <title>purchase-user-interface-flow-design</title>
+  <rect class="a" x="239.63" y="0.25" width="115.33" height="61.83"/>
+  <rect class="a" x="249.21" y="20.43" width="20.46" height="33.02"/>
+  <rect class="a" x="273.54" y="20.43" width="20.61" height="33.02"/>
+  <rect class="a" x="298.2" y="20.43" width="20.55" height="33.02"/>
+  <rect class="a" x="322.86" y="20.43" width="20.53" height="33.02"/>
+  <g>
+    <line class="b" x1="333" y1="48.12" x2="370" y2="48.12"/>
+    <g>
+      <line class="c" x1="334" y1="48.62" x2="370" y2="48.62"/>
+      <circle class="d" cx="334.25" cy="48.26" r="1.13"/>
+    </g>
+  </g>
+  <text class="e" transform="translate(254.26 29.17)">Free<tspan x="0.11" y="4.8">Plan</tspan></text>
+  <text class="e" transform="translate(275.26 29.17)">Standard<tspan x="4.11" y="4.8">Plan</tspan></text>
+  <text class="e" transform="translate(304.92 29.17)">Pro<tspan x="-0.89" y="4.8">Plan</tspan></text>
+  <text class="e" transform="translate(324.01 29.17)">Enterprise<tspan x="5.11" y="4.8">Plan</tspan></text>
+  <g>
+    <line class="b" x1="260" y1="48.12" x2="223" y2="48.12"/>
+    <g>
+      <line class="c" x1="259" y1="48.62" x2="223" y2="48.62"/>
+      <circle class="d" cx="258.79" cy="48.26" r="1.13"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(282.67 12.31)">Pricing Page</text>
+  <g>
+    <polyline class="c" points="283.5 48.12 283.5 57.62 308.5 57.62 308.5 48.12"/>
+    <circle class="d" cx="283.5" cy="48.25" r="1.13"/>
+    <circle class="d" cx="308.5" cy="48.25" r="1.13"/>
+  </g>
+  <line class="g" x1="296.5" y1="58.12" x2="296.5" y2="70.12"/>
+  <text class="f" transform="translate(370.09 49.81)">Click “Contact Us”</text>
+  <g>
+    <line class="b" x1="411" y1="48.12" x2="439" y2="48.12"/>
+    <g>
+      <line class="c" x1="411" y1="48.62" x2="437" y2="48.62"/>
+      <polygon class="d" points="436 49.79 438.59 48.29 436 46.79 436 49.79"/>
+    </g>
+  </g>
+  <rect class="a" x="438.88" y="31.16" width="52" height="30.91"/>
+  <text class="f" transform="translate(449.34 49.81)">Contact Page</text>
+  <g>
+    <line class="b" x1="491" y1="48.12" x2="517" y2="48.12"/>
+    <g>
+      <line class="h" x1="491" y1="48.62" x2="515" y2="48.62"/>
+      <polygon class="i" points="514 49.79 516.59 48.29 514 46.79 514 49.79"/>
+    </g>
+  </g>
+  <text class="j" transform="translate(517.92 47.12) scale(0.97 1)">send message <tspan x="0" y="6">to sales</tspan></text>
+  <g>
+    <line class="b" x1="182" y1="48.12" x2="158" y2="48.12"/>
+    <g>
+      <line class="c" x1="182" y1="48.62" x2="160" y2="48.62"/>
+      <polygon class="d" points="161 46.79 158.41 48.29 161 49.79 161 46.79"/>
+    </g>
+  </g>
+  <rect class="a" x="117.16" y="42.04" width="52" height="30.91" transform="translate(275.33 104.12) rotate(-180)"/>
+  <g>
+    <line class="b" x1="106" y1="48.12" x2="80" y2="48.12"/>
+    <g>
+      <line class="k" x1="106" y1="48.62" x2="101" y2="48.62"/>
+      <line class="h" x1="99" y1="48.62" x2="88" y2="48.62"/>
+      <line class="k" x1="87" y1="48.62" x2="82" y2="48.62"/>
+      <polygon class="i" points="82 47.22 80.14 48.29 82 49.36 82 47.22"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(182.84 49.81)">Click “Download”</text>
+  <text class="f" transform="translate(113.09 48.29)">Download Page</text>
+  <text class="j" transform="translate(33.79 49.81) scale(0.97 1)">install ParseHub app</text>
+  <line class="g" x1="296.5" y1="58.12" x2="296.5" y2="70.12"/>
+  <text class="f" transform="translate(284.68 73.67)">Click “Buy”</text>
+  <line class="g" x1="296.5" y1="74.12" x2="296.5" y2="83.12"/>
+  <g>
+    <polyline class="c" points="284.5 91.12 284.5 82.62 309.5 82.62 309.5 91.12"/>
+    <polygon class="d" points="286 91.12 284.5 93.71 283 91.12 286 91.12"/>
+    <polygon class="d" points="308 91.12 309.5 93.71 311 91.12 308 91.12"/>
+  </g>
+  <text class="f" transform="translate(301.71 97.5)">if user <tspan class="l" x="15" y="0">is</tspan><tspan x="0" y="6">logged-in</tspan></text>
+  <g>
+    <rect class="b" x="202.08" y="83.12" width="47.09" height="33.03"/>
+    <g>
+      <polyline class="m" points="202.08 111.15 202.08 116.15 207.08 116.15"/>
+      <line class="n" x1="209.03" y1="116.15" x2="243.19" y2="116.15"/>
+      <polyline class="m" points="244.16 116.15 249.16 116.15 249.16 111.15"/>
+      <line class="o" x1="249.16" y1="109.38" x2="249.16" y2="89.01"/>
+      <polyline class="m" points="249.16 88.12 249.16 83.12 244.16 83.12"/>
+      <line class="n" x1="242.21" y1="83.12" x2="208.05" y2="83.12"/>
+      <polyline class="m" points="207.08 83.12 202.08 83.12 202.08 88.12"/>
+      <line class="o" x1="202.08" y1="89.89" x2="202.08" y2="110.27"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(210.06 101.62)">Log-in Pop-up</text>
+  <text class="f" transform="translate(269 97.5)">if user <tspan class="l" x="15" y="0">not</tspan><tspan x="0" y="6">logged-in</tspan></text>
+  <g>
+    <line class="b" x1="267" y1="99.12" x2="249" y2="99.12"/>
+    <g>
+      <line class="c" x1="267" y1="99.62" x2="251" y2="99.62"/>
+      <polygon class="d" points="252 97.79 249.41 99.29 252 100.79 252 97.79"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="309" y1="106.12" x2="309" y2="128.12"/>
+    <g>
+      <line class="c" x1="309.5" y1="106.12" x2="309.5" y2="126.12"/>
+      <polygon class="d" points="308 125.12 309.5 127.71 311 125.12 308 125.12"/>
+    </g>
+  </g>
+  <text x="-11" y="-10.88"/>  <g>
+    <line class="b" x1="207" y1="104.12" x2="187" y2="104.12"/>
+    <g>
+      <line class="c" x1="206" y1="104.62" x2="187" y2="104.62"/>
+      <circle class="d" cx="205.87" cy="104.26" r="1.13"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="152" y1="104.12" x2="127" y2="104.12"/>
+    <g>
+      <line class="c" x1="152" y1="104.62" x2="129" y2="104.62"/>
+      <polygon class="d" points="129 102.79 126.41 104.29 129 105.79 129 102.79"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(152.71 105.81)">Click “Register”</text>
+  <g>
+    <rect class="b" x="78.68" y="98.61" width="47.09" height="13.68"/>
+    <g>
+      <polyline class="m" points="78.68 107.29 78.68 112.29 83.68 112.29"/>
+      <line class="n" x1="85.64" y1="112.29" x2="119.8" y2="112.29"/>
+      <polyline class="m" points="120.77 112.29 125.77 112.29 125.77 107.29"/>
+      <polyline class="m" points="125.77 103.61 125.77 98.61 120.77 98.61"/>
+      <line class="n" x1="118.82" y1="98.61" x2="84.66" y2="98.61"/>
+      <polyline class="m" points="83.68 98.61 78.68 98.61 78.68 103.61"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(83.5 107.2)">Register Pop-up</text>
+  <text class="f" transform="translate(86.92 131.29)">Click “Sign-up”</text>
+  <g>
+    <line class="b" x1="207" y1="88.12" x2="181" y2="88.12"/>
+    <g>
+      <line class="c" x1="206" y1="88.62" x2="181" y2="88.62"/>
+      <circle class="d" cx="205.87" cy="88.26" r="1.13"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="150" y1="88.12" x2="126" y2="88.12"/>
+    <g>
+      <line class="c" x1="150" y1="88.62" x2="128" y2="88.62"/>
+      <polygon class="d" points="129 86.79 126.41 88.29 129 89.79 129 86.79"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(151.29 87.94)">Click “Forgot <tspan x="0" y="6">Password”</tspan></text>
+  <g>
+    <rect class="b" x="78.68" y="77.2" width="47.09" height="17.18"/>
+    <g>
+      <polyline class="m" points="78.68 89.38 78.68 94.38 83.68 94.38"/>
+      <line class="n" x1="85.64" y1="94.38" x2="119.8" y2="94.38"/>
+      <polyline class="m" points="120.77 94.38 125.77 94.38 125.77 89.38"/>
+      <line class="p" x1="125.77" y1="88.36" x2="125.77" y2="82.71"/>
+      <polyline class="m" points="125.77 82.2 125.77 77.2 120.77 77.2"/>
+      <line class="n" x1="118.82" y1="77.2" x2="84.66" y2="77.2"/>
+      <polyline class="m" points="83.68 77.2 78.68 77.2 78.68 82.2"/>
+      <line class="p" x1="78.68" y1="83.22" x2="78.68" y2="88.87"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(83.5 84.39)">Reset Password<tspan x="0" y="6">Pop-up</tspan></text>
+  <g>
+    <line class="b" x1="78" y1="88.12" x2="52" y2="88.12"/>
+    <g>
+      <line class="k" x1="78" y1="88.62" x2="73" y2="88.62"/>
+      <line class="h" x1="71" y1="88.62" x2="60" y2="88.62"/>
+      <line class="k" x1="59" y1="88.62" x2="54" y2="88.62"/>
+      <polygon class="i" points="54 87.22 52.14 88.29 54 89.36 54 87.22"/>
+    </g>
+  </g>
+  <text class="j" transform="translate(22.54 89.81) scale(0.97 1)">reset in email</text>
+  <g>
+    <line class="b" y1="88.12" x2="22" y2="88.12"/>
+    <g>
+      <line class="k" x1="1" y1="88.62" x2="22" y2="88.62"/>
+      <circle class="i" cx="1.34" cy="88.26" r="1.13"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="224.46" y1="119.46" x2="224.52" y2="109.81"/>
+    <g>
+      <line class="q" x1="224.46" y1="119.46" x2="224.51" y2="110.88"/>
+      <circle class="d" cx="235.51" cy="121.82" r="1.13" transform="translate(101.39 345.77) rotate(-89.68)"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(209.92 124.14)">Click “Log-in”</text>
+  <g>
+    <line class="b" x1="224.39" y1="85.79" x2="224.59" y2="70.79"/>
+    <g>
+      <line class="r" x1="224.39" y1="85.79" x2="224.57" y2="71.86"/>
+      <circle class="i" cx="235.57" cy="82.8" r="1.13" transform="translate(138.74 306.4) rotate(-89.26)"/>
+    </g>
+  </g>
+  <text class="j" transform="translate(212.08 69.79)">Click “Exit”</text>
+  <g>
+    <line class="b" x1="215" y1="127.12" x2="215" y2="136.12"/>
+    <g>
+      <line class="c" x1="215.5" y1="127.12" x2="215.5" y2="134.12"/>
+      <polygon class="d" points="214 133.12 215.5 135.71 217 133.12 214 133.12"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="233" y1="127.12" x2="233" y2="136.12"/>
+    <g>
+      <line class="c" x1="233.5" y1="127.12" x2="233.5" y2="134.12"/>
+      <polygon class="d" points="232 133.12 233.5 135.71 235 133.12 232 133.12"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(224.94 140.83)">if successful</text>
+  <text class="f" transform="translate(208.69 140.83)">Is not <tspan x="-5.14" y="6">successful</tspan></text>
+  <g>
+    <line class="b" x1="205" y1="139.12" x2="192" y2="139.12"/>
+    <g>
+      <line class="h" x1="205" y1="139.62" x2="194" y2="139.62"/>
+      <polygon class="i" points="194 138.22 192.14 139.29 194 140.36 194 138.22"/>
+    </g>
+  </g>
+  <text class="j" transform="translate(178.7 140.83) scale(0.97 1)">error <tspan x="-4.31" y="6">message</tspan></text>
+  <g>
+    <line class="k" x1="184.5" y1="137.12" x2="184.5" y2="132.12"/>
+    <line class="h" x1="184.5" y1="130.12" x2="184.5" y2="118.12"/>
+    <polyline class="k" points="184.5 117.12 184.5 112.62 189 112.62"/>
+    <line class="s" x1="191" y1="112.62" x2="200" y2="112.62"/>
+    <line class="k" x1="201" y1="112.62" x2="206" y2="112.62"/>
+    <circle class="i" cx="205.58" cy="112.29" r="1.13"/>
+  </g>
+  <g>
+    <line class="b" x1="255" y1="139.12" x2="270" y2="139.12"/>
+    <g>
+      <line class="c" x1="254" y1="139.62" x2="268" y2="139.62"/>
+      <polygon class="d" points="267 140.79 269.59 139.29 267 137.79 267 140.79"/>
+    </g>
+  </g>
+  <g>
+    <rect class="b" x="270.88" y="127.75" width="52" height="30.91"/>
+    <g>
+      <polyline class="m" points="322.88 153.66 322.88 158.66 317.88 158.66"/>
+      <line class="t" x1="315.67" y1="158.67" x2="276.98" y2="158.67"/>
+      <polyline class="m" points="275.88 158.66 270.88 158.66 270.88 153.66"/>
+      <line class="u" x1="270.88" y1="152.06" x2="270.88" y2="133.56"/>
+      <polyline class="m" points="270.88 132.75 270.88 127.75 275.88 127.75"/>
+      <line class="t" x1="278.09" y1="127.75" x2="316.77" y2="127.75"/>
+      <polyline class="m" points="317.88 127.75 322.88 127.75 322.88 132.75"/>
+      <line class="u" x1="322.88" y1="134.36" x2="322.88" y2="152.86"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(278.91 143.21)">Stripe Payment<tspan x="9.03" y="6">Pop-up</tspan></text>
+  <text class="j" transform="translate(84.55 151.79) scale(0.97 1)">successful log-in</text>
+  <g>
+    <line class="b" x1="124" y1="150.12" x2="270" y2="150.12"/>
+    <g>
+      <line class="k" x1="123" y1="150.62" x2="128" y2="150.62"/>
+      <line class="h" x1="131" y1="150.62" x2="262" y2="150.62"/>
+      <line class="k" x1="263" y1="150.62" x2="268" y2="150.62"/>
+      <polygon class="i" points="267 151.79 269.59 150.29 267 148.79 267 151.79"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="102" y1="133.12" x2="102" y2="147.12"/>
+    <g>
+      <line class="h" x1="102.5" y1="133.12" x2="102.5" y2="145.12"/>
+      <polygon class="i" points="101 145.12 102.5 147.71 104 145.12 101 145.12"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="317" y1="149.12" x2="336" y2="149.12"/>
+    <g>
+      <line class="c" x1="318" y1="149.62" x2="336" y2="149.62"/>
+      <circle class="d" cx="318.25" cy="149.58" r="1.13"/>
+    </g>
+  </g>
+  <text class="f" transform="translate(336.5 150.81)">Click “Check-out”</text>
+  <g>
+    <line class="b" x1="377" y1="149.12" x2="392" y2="149.12"/>
+    <g>
+      <line class="c" x1="377" y1="149.62" x2="390" y2="149.62"/>
+      <polygon class="d" points="389 150.79 391.59 149.29 389 147.79 389 150.79"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="102.32" y1="126.79" x2="102.43" y2="108.64"/>
+    <g>
+      <line class="q" x1="102.32" y1="126.79" x2="102.42" y2="109.72"/>
+      <circle class="d" cx="113.42" cy="120.65" r="1.13" transform="translate(-18.86 222.52) rotate(-89.68)"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="317.99" y1="139.31" x2="332.99" y2="139.27"/>
+    <g>
+      <line class="r" x1="317.99" y1="139.31" x2="331.92" y2="139.27"/>
+      <circle class="i" cx="342.86" cy="150.15" r="1.13" transform="translate(-11.48 -9.78) rotate(-0.18)"/>
+    </g>
+  </g>
+  <text class="j" transform="translate(334.65 140.73)">Click “Exit”</text>
+  <text class="j" transform="translate(392 144.79)">Process<tspan x="0" y="6">payment with </tspan><tspan x="0" y="12">Stripe API</tspan></text>
+  <g>
+    <line class="b" x1="424" y1="149.12" x2="439" y2="149.12"/>
+    <g>
+      <line class="c" x1="424" y1="149.62" x2="437" y2="149.62"/>
+      <polygon class="d" points="436 150.79 438.59 149.29 436 147.79 436 150.79"/>
+    </g>
+  </g>
+  <rect class="a" x="439" y="127.75" width="52" height="30.91"/>
+  <text class="f" transform="translate(449.02 142.54)">Thank you for <tspan x="3.75" y="6">purchasing</tspan></text>
+  <text class="j" transform="translate(453.42 174.96)">Click “Exit”</text>
+  <g>
+    <line class="b" x1="487" y1="135.12" x2="508" y2="135.12"/>
+    <g>
+      <line class="h" x1="488" y1="135.62" x2="508" y2="135.62"/>
+      <circle class="i" cx="488.25" cy="135.26" r="1.13"/>
+    </g>
+  </g>
+  <g>
+    <line class="h" x1="464.5" y1="132.12" x2="464.5" y2="109.12"/>
+    <circle class="i" cx="464.5" cy="132.16" r="1.13"/>
+  </g>
+  <g>
+    <line class="b" x1="464" y1="153.12" x2="464" y2="169.12"/>
+    <g>
+      <line class="h" x1="464.5" y1="154.12" x2="464.5" y2="167.12"/>
+      <circle class="i" cx="464.5" cy="154.29" r="1.5"/>
+      <polygon class="i" points="466.93 166.12 462.07 166.12 464.5 168.55 466.93 166.12"/>
+    </g>
+  </g>
+  <g>
+    <line class="h" x1="464.5" y1="94.12" x2="464.5" y2="66.12"/>
+    <polygon class="i" points="466.5 66.12 464.5 62.67 462.5 66.12 466.5 66.12"/>
+  </g>
+  <text class="j" transform="translate(444.32 99.64)">Click “Schedule a <tspan x="3.48" y="6">Product Demo”</tspan></text>
+  <text class="j" transform="translate(509.17 136.98)">Click “Download”</text>
+  <rect class="a" x="575.33" y="136.6" width="52" height="17.49" transform="translate(1191.66 279.81) rotate(-180)"/>
+  <text class="f" transform="translate(573.09 136.7)">Download Page</text>
+  <g>
+    <line class="b" x1="549" y1="135.12" x2="564" y2="135.12"/>
+    <g>
+      <line class="h" x1="549" y1="135.62" x2="562" y2="135.62"/>
+      <polygon class="i" points="561 136.79 563.59 135.29 561 133.79 561 136.79"/>
+    </g>
+  </g>
+  <g>
+    <line class="b" x1="487" y1="152.12" x2="508" y2="152.12"/>
+    <g>
+      <line class="h" x1="488" y1="152.62" x2="508" y2="152.62"/>
+      <circle class="i" cx="488.25" cy="152.26" r="1.13"/>
+    </g>
+  </g>
+  <text class="j" transform="translate(509.17 153.98)">Click “Help”</text>
+  <g>
+    <line class="b" x1="536" y1="152.12" x2="564" y2="152.12"/>
+    <g>
+      <line class="h" x1="536" y1="152.62" x2="562" y2="152.62"/>
+      <polygon class="i" points="561 153.79 563.59 152.29 561 150.79 561 153.79"/>
+    </g>
+  </g>
+  <rect class="a" x="575.33" y="156.85" width="52" height="15.37" transform="translate(1191.66 318.19) rotate(-180)"/>
+  <text class="f" transform="translate(576.92 154.86)">Help Center</text>
+</svg>
