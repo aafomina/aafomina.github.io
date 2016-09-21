@@ -472,3 +472,18 @@ a.learn-more {
 a.learn-more.green {
   color: #0e9c83;
 }
+
+.btn-af {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 10px 20px;
+  border: 2px solid #337ab7;
+  color: #337ab7;
+  font-size: 18px;
+}
+
+.btn-af:hover {
+  color: white;
+  background-color: #337ab7;
+  border-color: #337ab7;
+}
