@@ -1,0 +1,75 @@
+@media only screen and (max-width: 500px) {
+  p {
+    font-size: 12px;
+  }
+  .page-title {
+  	font-size: 18px;
+  }
+  .profile-image {
+  	width: 75px;
+  	height: 75px;
+  }
+  .main-heading {
+  	margin-bottom: 20px;
+  	margin-top: 20px;
+  	font-size: 20px;
+  }
+  .thumb-heading {
+  	font-size: 14px;
+  }
+  .thumb-background {
+  	width: 300px;
+  	margin-top: 20px;
+  }
+  .thumb-ph-site {
+  	width: 250px;
+  }
+  .thumbnail > img.thumb-blog-post {
+  	width: 300px;
+  	height: 200px;
+  	text-align: center;
+  	margin-right: 0px;
+		margin-left: 0px;
+	}
+	.blog-thumb {
+	  border: none;
+	  width: auto;
+	  width: 300px;
+	  height: 200px;
+	}
+	.thumb-blog-heading {
+		font-size: 14px;
+	}
+	.mobile {
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+	.thumb-ph-site.moving {
+		padding-top: 30px;
+		width: 300px;
+	}
+	a.learn-more.green {
+  	margin-bottom: 20px;
+	}
+	a.learn-more {
+		margin-bottom: 20px;
+	}
+	.gif-background {
+		margin-top: 20px;
+	}
+	.case-study {
+		margin-top: 0px;
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.thumb-heading {
+  	font-size: 14px;
+  }
+ }
+
+@media only screen and (max-width: 1200px) {
+	.case-study {
+		margin-top: 0px;
+	}
+}
