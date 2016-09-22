@@ -6,6 +6,11 @@ body {
   line-height: 1.6;
 }
 
+.thumb-text {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 p {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
@@ -384,11 +389,11 @@ ul.con-list > li::before {
 }
 /*#a9abb8*/
 .grad {
-  background: #252835; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#252835, white); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#252835, white); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#252835, white); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#252835, white); /* Standard syntax */
+  background: #35394c; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#35394c, #7b83a3); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#35394c, #7b83a3); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#35394c, #7b83a3); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#35394c, #7b83a3); /* Standard syntax */
 }
 
 .gif-background {
