@@ -21,6 +21,11 @@ p {
   width: 600px;
 }
 
+.with-border {
+  width: 550px;
+  margin-top: 20px
+}
+
 .case-study .row {
   margin-top: 20px;
   margin-bottom: 80px;
@@ -383,6 +388,14 @@ ul.con-list > li::before {
   margin-top: 10px;
 }
 
+.extra-margin {
+  margin-bottom: 50px
+}
+
+.extra-margin-top {
+  margin-top: 120px
+}
+
 .design-flow {
   width: 1400px;
   height: auto;
@@ -500,3 +513,30 @@ a.learn-more.green {
   border-radius: 0px;
 }
 
+.logo-image {
+  width: 250px;
+}
+
+.row.background-ph-dark {
+  background-color: #178292;
+  margin-bottom: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.background-page-dark {
+  /*background-color: #1a95a7;*/
+  background-color: #4d536f;
+  padding: 30px 30px;
+  padding-bottom: 50px;
+  margin-bottom: 40px;
+}
+
+.main-heading.ph {
+  margin-bottom: 30px;
+}
+
+.icons {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

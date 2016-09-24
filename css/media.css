@@ -13,6 +13,8 @@
   	margin-bottom: 20px;
   	margin-top: 20px;
   	font-size: 20px;
+  	padding-left: 20px;
+  	padding-right: 20px;
   }
   .thumb-heading {
   	font-size: 14px;
@@ -59,6 +61,48 @@
 	}
 	.case-study {
 		margin-top: 0px;
+	}
+	.background-page-dark {
+		padding: 20px 10px;
+	}
+	.half-landing-page {
+		width: 300px;
+	}
+	.design-flow {
+		width: 350px;
+		height: auto;
+	}
+	.sub-heading {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	.email {
+		width: 300px;
+	}
+	h3 {
+		font-size: 22px;
+	}
+	p {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	ul.pro-list li {
+		font-size: 14px;
+	}
+	ul.con-list {
+		margin-bottom: 30px;
+	}
+	ul.con-list li {
+		font-size: 14px;
+	}
+	.case-study .row {
+		margin-bottom: 20px;
+	}
+	.extra-margin {
+		margin-bottom: 20px;
+	}
+	.extra-margin-top {
+		margin-top: 40px;
 	}
 }
 
