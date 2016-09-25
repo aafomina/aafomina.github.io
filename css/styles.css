@@ -36,7 +36,7 @@ p {
   font-size: 28px;
   font-weight: 700;
   line-height: 1.6;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   margin-top: 50px;
   font-family: "Graphik Web", Helvetica, Arial, serif;
 }
@@ -402,11 +402,11 @@ ul.con-list > li::before {
 }
 /*#a9abb8*/
 .grad {
-  background: #35394c; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#35394c, #7b83a3); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#35394c, #7b83a3); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#35394c, #7b83a3); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#35394c, #7b83a3); /* Standard syntax */
+  background: #0f5964; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#0f5964, #79d6e3); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#0f5964, #79d6e3); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#0f5964, #79d6e3); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#0f5964, #79d6e3); /* Standard syntax */
 }
 
 .gif-background {
@@ -486,7 +486,7 @@ a.learn-more.green {
   color: #0e9c83;
 }
 
-.btn-af {
+.btn-blue {
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 10px 20px;
@@ -495,10 +495,33 @@ a.learn-more.green {
   font-size: 18px;
 }
 
-.btn-af:hover {
+.first-action {
+  margin-bottom: 10px;
+}
+
+.btn-blue:hover {
   color: white;
   background-color: #337ab7;
   border-color: #337ab7;
+}
+
+.btn-green {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 10px 20px;
+  border: 2px solid #0e9c83;
+  color: #0e9c83;
+  font-size: 18px;
+}
+
+.first-action {
+  margin-bottom: 10px;
+}
+
+.btn-green:hover {
+  color: white;
+  background-color: #0e9c83;
+  border-color: #0e9c83;
 }
 
 .thumbnail > img.thumb-blog-post-image {
@@ -525,8 +548,9 @@ a.learn-more.green {
 }
 
 .background-page-dark {
-  /*background-color: #1a95a7;*/
-  background-color: #4d536f;
+  /*background-color: #0f5964;*/
+  background-color: rgba(15,89,100,0.9);
+  /*background-color: #4d536f;*/
   padding: 30px 30px;
   padding-bottom: 50px;
   margin-bottom: 40px;
@@ -537,6 +561,10 @@ a.learn-more.green {
 }
 
 .icons {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.icons img {
+  width: 100px;
 }

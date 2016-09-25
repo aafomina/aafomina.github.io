@@ -2,6 +2,9 @@
   p {
     font-size: 12px;
   }
+  li {
+  	font-size: 12px;
+  }
   .page-title {
   	font-size: 18px;
   }
@@ -103,6 +106,43 @@
 	}
 	.extra-margin-top {
 		margin-top: 40px;
+	}
+	.mobile {
+		display: none;
+	}
+	.icons img {
+  	width: 80px;
+  	margin-top: 10px;
+	}
+	.bubble {
+		width: 350px;
+		padding: 10px 10px 10px 10px;
+		height: 750px;
+		margin-left: 20px;
+	}
+	.bubble ul {
+		padding-left: 20px;
+	}
+	.nikita-use-case .bubble {
+		height: 850px;
+	}
+	.fixed-size {
+		height: 220px;
+	}
+	.fixed-size-2 {
+		height: 140px;
+	}
+	.user-test-info {
+		text-align: center;
+	}
+	.shopify-sub-heading {
+		margin-top: 20px;
+	}
+	.mobile-image-landscape {
+		width: 350px;
+	}
+	.mobile-image-flat {
+		width: 300px;
 	}
 }
 
