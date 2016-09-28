@@ -255,23 +255,20 @@ a:hover {
 }
 
 .footer span a {
-  color: #999;
+  color: #555;
   padding-right: 10px;
   padding-left: 10px;
-  font-family: 'Merriweather', serif;
 }
 
 .footer-styles {
-  color: #999;
-  font-family: 'Merriweather', serif;
+  color: #555;
   font-size: 16px;
 }
 
 .footer-subtext {
-  color: #333;
-  font-family: 'Merriweather', serif;
-  font-size: 10px;
-  padding-top: 10px;
+  color: #555;
+  font-size: 12px;
+  padding-top: 8px;
 }
 
 .less-padding {
@@ -556,6 +553,10 @@ a.learn-more.green {
   margin-bottom: 40px;
 }
 
+.background-page-dark h4 {
+  color: white;
+}
+
 .main-heading.ph {
   margin-bottom: 30px;
 }
@@ -567,4 +568,41 @@ a.learn-more.green {
 
 .icons img {
   width: 100px;
+}
+
+.landing-page-step-img {
+  width: 275px;
+  margin-top: 15px;
+}
+
+.white {
+  color: white;
+}
+
+.length-1 {
+  height: 1900px;
+}
+
+.length-2 {
+  height: 850px;
+}
+
+.fixed-height {
+  height: 1400px;
+  width: auto;
+}
+
+.fixed-height-2 {
+  height: 500px;
+  width: auto;
+}
+
+.green {
+  color: #0e9c83;
+}
+
+.heading-italic {
+  font-style: italic;
+  font-weight: 700;
+  margin-bottom: 20px;
 }
