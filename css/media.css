@@ -144,6 +144,14 @@
 	.mobile-image-flat {
 		width: 300px;
 	}
+	.tools-used {
+	  padding:0px 0px 0px 0px;
+	}
+	.half-page-browser {
+	  height: 250px;
+	  margin-top: 20px;
+	  margin-bottom: 20px;
+	}
 }
 
 @media only screen and (max-width: 800px) {
@@ -155,5 +163,8 @@
 @media only screen and (max-width: 1200px) {
 	.case-study {
 		margin-top: 0px;
+	}
+	.half-page-browser {
+	  height: 400px;
 	}
 }
