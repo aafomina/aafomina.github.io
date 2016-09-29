@@ -638,3 +638,36 @@ a.learn-more.green {
   margin-top: 40px;
   margin-bottom: 20px;
 }
+
+.nav-center ul.nav li.active a {
+  color: #0e9c83;
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  padding-bottom: 5px;
+  margin-top: 0px;
+}
+
+.nav-center ul.nav li a {
+  float: left;
+  color: #a9a9a9;
+  font-size: 18px;
+  background-color: white;
+}
+
+.growth-description {
+  padding-top: 20px;
+}
+
+.growth-description p, li{
+  font-size: 16px;
+  color: #555;
+}
+
+.details-row {
+  padding: 40px 20px 0px 20px;
+}
+
+.details-row p {
+  font-size: 16px;
+}
