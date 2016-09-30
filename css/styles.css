@@ -675,3 +675,7 @@ a.learn-more.green {
 .details-row p {
   font-size: 16px;
 }
+
+.half-page-browser.large {
+  height: 500px;
+}
