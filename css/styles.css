@@ -677,5 +677,6 @@ a.learn-more.green {
 }
 
 .half-page-browser.large {
-  height: 500px;
+  height: 400px;
+  text-align: center;
 }
