@@ -243,3 +243,7 @@ span.step.empty {
   font-family: 'Merriweather', serif;
   font-size: 16px;
 }
+
+li {
+	color: #767676;
+}
